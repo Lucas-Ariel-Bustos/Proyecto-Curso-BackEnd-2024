@@ -1,0 +1,1 @@
+[{"id":2,"title":"Pantalón","description":"Pantalón de Jean","price":2000,"thumbnail":"Pantalón.jpg","code":"P001","stock":50},{"id":3,"title":"Campera","description":"Campera de cocuero","price":3000,"thumbnail":"Campera.jpg","code":"C001","stock":100}]
